@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.cloudmonitor</groupId>
+    <artifactId>cloud-server-monitoring</artifactId>
+    <version>1.0</version>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+    <dependencies>
+
+    <dependency>
+    <groupId>com.github.haifengl</groupId>
+    <artifactId>smile-core</artifactId>
+    <version>3.1.1</version>
+    </dependency>
+
+</dependencies>
+
+</project> 
